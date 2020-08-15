@@ -1,6 +1,6 @@
 ### Hi there, I'm sumit - aka [tech-sam](http://sumit.tech) 👋
 
-## I'm a Developer, Bike Rider and Fitness Enthusiast!
+## I'm a Developer, Biker and Fitness Enthusiast!
 
 - 🔭 I’m currently on a WebRTC application!
 - 🌱 I’m currently learning everything 🤣
